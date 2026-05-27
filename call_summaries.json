@@ -1,0 +1,17 @@
+[
+    {
+        "short_summary": "Customer reported their smart blender stopped working after a burning smell and loud noises. A replacement was arranged under warranty.",
+        "customer_issue": "Smart blender malfunctioned with burning smell, loud noises, and sudden shutdown within one month of purchase.",
+        "sentiment": "Negative",
+        "category": "Product malfunction",
+        "important_keywords": [
+            "smart blender",
+            "burning smell",
+            "loud noises",
+            "replacement",
+            "warranty",
+            "power outlet",
+            "purchase date"
+        ]
+    }
+]
